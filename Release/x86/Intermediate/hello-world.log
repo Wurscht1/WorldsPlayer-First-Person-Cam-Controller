@@ -1,0 +1,9 @@
+﻿  hello-world.cpp
+C:\Users\minonotauris\Desktop\WorldsShit\Worlds FPS Cam\hello-world.cpp(76,41): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\minonotauris\Desktop\WorldsShit\Worlds FPS Cam\hello-world.cpp(77,41): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  Code wird generiert.
+  Codegenerierung ist abgeschlossen.
+  0 of 20 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  hello-world.vcxproj -> C:\Users\minonotauris\Desktop\WorldsShit\Worlds FPS Cam\Release\x86\hello-world.dll
